@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab421926.css",
-    "main.js": "/static/js/main.b5c54a1c.js",
-    "index.html": "/index.html",
-    "main.ab421926.css.map": "/static/css/main.ab421926.css.map",
-    "main.b5c54a1c.js.map": "/static/js/main.b5c54a1c.js.map"
+    "main.css": "/graduation-invite/static/css/main.ab421926.css",
+    "main.js": "/graduation-invite/static/js/main.b5c54a1c.js",
+    "index.html": "/graduation-invite/index.html",
+    "main.ab421926.css.map": "/graduation-invite/static/css/main.ab421926.css.map",
+    "main.b5c54a1c.js.map": "/graduation-invite/static/js/main.b5c54a1c.js.map"
   },
   "entrypoints": [
     "static/css/main.ab421926.css",
